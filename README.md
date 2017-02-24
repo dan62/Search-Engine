@@ -1,2 +1,2 @@
-# Search-Engine
-This is one of my projects iv been working on for some time , it is a search engine with capabilities like google. Ive not had the time lately to work on it , however i will be doing adjustments shortly
+# Pangai Search
+This is one of my college projects i built, it consists of intelligent voice AI which enables users to search for websites by the power of their voice. It works much like Google in the sense that it does the same thing.
